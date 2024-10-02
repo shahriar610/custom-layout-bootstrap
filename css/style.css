@@ -1,0 +1,17 @@
+.header,.hero,.body,.bar,.footer{
+	background-color: rgb(13, 75, 104);
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: rgb(138, 21, 192);
+	font-size: 30px;
+	color: white;
+}
+.yellow{
+	background-color: rgb(255, 230, 0);
+}
+.green{
+	background-color: rgb(19, 172, 44);
+}
